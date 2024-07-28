@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.himanshutestorg.twa",
+        "sha256_cert_fingerprints": ["90:7D:B4:90:00:96:40:5B:E5:45:A9:1F:48:E7:26:EB:3B:73:5A:C0:9F:CC:DE:58:A1:D5:E3:AE:5E:3F:32:DE"]
+      }
+    }]
